@@ -5,4 +5,4 @@ Run from commandline with "python main.py". Or run the scraper directly with "sc
 
 The main code is in the file "./du1/spiders/zive_spider.py".
 
-A sample output is in the file "./output.jl" (JSON Lines http://jsonlines.org/ format)
+A sample output is in the file "./output.jl" (JSON Lines http://jsonlines.org/ format). Data of one scraped article in JSON per line.
