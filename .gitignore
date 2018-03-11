@@ -1,0 +1,7 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea/
+du1.iml
+du1/__pycache__/
+du1/spiders/__pycache__/
+results.html
+test.ipynb
